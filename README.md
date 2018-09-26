@@ -30,16 +30,16 @@ the available versions.
 
 ## Authors
 
-* **Kelli Faye Johnson** - *Initial work* - [PurpleBooth](https://github.com/kellijohnson)
+* **Kelli Faye Johnson** - *Initial work*
 
 See also the list of [contributors](https://github.com/kellijohnson/tsrelation/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
 * Eric Ward
 * Isaac Kaplan
-* Andr\'{e} Punt
+* Andr&eacute; Punt
