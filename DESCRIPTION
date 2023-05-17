@@ -2,7 +2,7 @@ Package: tsrelation
 Title: Simulate and Estimate Multivariate Time Series
 Version: 0.0.0.9000
 Authors@R: person("Kelli", "Johnson", email = "kelli.johnson@noaa.gov", role = c("aut", "cre"))
-Description: This package provides function to conduct simulation and empirical analyses on multivariate time-series data. Correlation analyses are typically not robust when data are time series, and thus, this package was created to test the difference between analyses that take the time-series nature of the data into account versus those that do not.
+Description: This package provides function to conduct simulation and empirical analyses on multivariate time-series data. Correlation analyses are typically not robust when data are time series. Thus, this package was created to test the difference between analyses that take the time-series nature of the data into account versus those that do not.
 Depends: R (>= 4.2)
 License: GNU + file LICENSE
 Encoding: UTF-8
