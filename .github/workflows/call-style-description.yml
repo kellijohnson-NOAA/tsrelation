@@ -7,4 +7,4 @@ on:
 name: call-style-description
 jobs:
   call-workflow:
-    uses: kellijohnson-NOAA/tsrelation/.github/workflows/style-description.yml@main
+    uses: kellijohnson-NOAA/tsrelation/.github/workflows/style-description.yml@master
